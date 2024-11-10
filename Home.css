@@ -2,11 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 
-body {
-    font-family: 'Roboto', sans-serif;
-}
 
 header {
     display: flex;
@@ -65,8 +63,6 @@ nav ul li a:focus {
     border-radius: 8px;
     font-size: 15px;
 }
-
-
 
 .Group-9 {
     display: flex;
